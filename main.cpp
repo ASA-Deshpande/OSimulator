@@ -1,4 +1,4 @@
-// OS Phase 2 by Group SY-10
+// OS Phase 2 by Group TY-10
 
 #include <algorithm>
 #include <fstream>
